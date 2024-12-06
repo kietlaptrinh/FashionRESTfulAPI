@@ -3,10 +3,10 @@
 This is a full-stack e-commerce application built using React for the frontend and Spring Boot for the backend. The application allows users to browse products, add them to the cart, and proceed with secure checkouts.
 
 ---
-![Homepage Screenshot](D:\DownLoad\homepageFashion.png)
-![Homepage Screenshot](D:\DownLoad\homepageFashion1.png)
-![Homepage Screenshot](D:\DownLoad\homepageFashion2.png)
-![Homepage Screenshot](D:\DownLoad\homepageFashion3.png)
+![Homepage Screenshot](./assets/images/homepageFashion.png)
+![Homepage Screenshot](./assets/images/homepageFashion1.png)
+![Homepage Screenshot](./assets/images/homepageFashion2.png)
+![Homepage Screenshot](./assets/images/homepageFashion3.png)
 
 ### Frontend
 - Built with React and styled using Tailwind CSS.
@@ -100,8 +100,8 @@ Name: DUONG TUAN KIET
 Email: [duongtuankiet.dev@gmail.com]
 GitHub: https://github.com/kietlaptrinh
 ### **Hướng dẫn tùy chỉnh**
-1. Thay **frontendFashion** và **shop_ecomerce**
-2. Thay **duongtuankiet.dev@gmail.com** 
-3. Thay **kietlaptrinh** bằng username GitHub của bạn.
+1. **frontendFashion** **shop_ecomerce**
+2.  **duongtuankiet.dev@gmail.com** 
+3. **kietlaptrinh**
 
 Nếu cần hỗ trợ tùy chỉnh thêm, hãy cho mình biết nhé! 😊
