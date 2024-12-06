@@ -3,10 +3,10 @@
 This is a full-stack e-commerce application built using React for the frontend and Spring Boot for the backend. The application allows users to browse products, add them to the cart, and proceed with secure checkouts.
 
 ---
-![Homepage Screenshot](./assets/images/homepageFashion.png)
-![Homepage Screenshot](./assets/images/homepageFashion1.png)
-![Homepage Screenshot](./assets/images/homepageFashion2.png)
-![Homepage Screenshot](./assets/images/homepageFashion3.png)
+![Homepage Screenshot](./assets/img/homepageFashion.png)
+![Homepage Screenshot](./assets/img/homepageFashion1.png)
+![Homepage Screenshot](./assets/img/homepageFashion2.png)
+![Homepage Screenshot](./assets/img/homepageFashion3.png)
 
 ### Frontend
 - Built with React and styled using Tailwind CSS.
