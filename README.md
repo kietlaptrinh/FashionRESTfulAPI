@@ -98,10 +98,10 @@ This project is licensed under the DuongTuanKiet
 ### **Contact**
 Name: DUONG TUAN KIET
 Email: [duongtuankiet.dev@gmail.com]
-GitHub: https://github.com/<kietlaptrinh>
+GitHub: https://github.com/kietlaptrinh
 ### **Hướng dẫn tùy chỉnh**
-1. Thay **`frontendFashion`** và **`shop_ecomerce`**
-2. Thay **`duongtuankiet.dev@gmail.com`** 
-3. Thay **`<kietlaptrinh>`** bằng username GitHub của bạn.
+1. Thay **frontendFashion** và **shop_ecomerce**
+2. Thay **duongtuankiet.dev@gmail.com** 
+3. Thay **kietlaptrinh** bằng username GitHub của bạn.
 
 Nếu cần hỗ trợ tùy chỉnh thêm, hãy cho mình biết nhé! 😊
